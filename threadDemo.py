@@ -32,4 +32,4 @@ thread2 = myThread(2, "Thread-2", 2)
 thread1.start()
 thread2.start()
 
-print "Exiting Main Thread\n"
+print "Exiting Main Thread \n"
